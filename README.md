@@ -1,10 +1,10 @@
-<img src="https://raw.githubusercontent.com/kkkcaio/kkkcaio/main/kz.gif" min-width="300px" max-width="300px" width="200px" align="left">
-<p align="right"> 
-  Meu nome é <b>Caio<b/>, e não sei programar.
+<img src="https://raw.githubusercontent.com/kkkcaio/kkkcaio/main/kz.gif" min-width="400px" max-width="400px" width="300px" align="right">
+<p align="center"> 
+  Meu nome é <b>Caio<b/>.
+</p> 
+  ⚽ Corinthiano
 </p>
-  
-  <p align="right">  
-  🈂 <b>Corinthiano<b/>
+  🤠 Linguagens: C, HTML e CSS (basicão)
 </p>
-
-       
+  👻 Não sei programar
+</p>
