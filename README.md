@@ -3,8 +3,8 @@
   Meu nome é <b>Caio<b/>.
 </p> 
   ⚽ Corinthiano
-</p>
-  🤠 Linguagens: C, HTML e CSS (basicão)
+</p style: color: black;>
+  🤠 Linguagens: C++, HTML e CSS (basicão)
 </p>
   👻 Não sei programar
 </p>
